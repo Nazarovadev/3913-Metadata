@@ -1,13 +1,9 @@
-Arcane Keeper
-A napi tisztánlátás, útmutatás és elmélkedés pillanata.
+A Mystic Draw egy játékos, vizuálisan gazdag alkalmazás, amely azokra a pillanatokra készült, amikor inspirációra, kíváncsiságra vagy friss perspektívára vágysz – anélkül, hogy a dolgokat túl komolyan vennéd. Gondolj rá úgy, mint egy napi szikrára az elmélkedésre, a szórakozásra és az önfelfedezésre, egy gyönyörű kártyahúzási élménybe csomagolva.
 
-Lépj be az Arcane Keeperbe, egy nyugodt és intuitív, tarot ihlette társba, amely segít önmagadba tekinteni, megérteni a napodat, és felfedezni a húzott lapok mögött rejlő jelentést.
+Válassz egy gyors húzást szórakozásból, fedezz fel tematikus kártyafüzeteket a szerelemhez, a munkához vagy a döntésekhez, vagy fordíts meg egyetlen kártyát, hogy lásd, mit hoz a pillanat. Minden húzáshoz lebilincselő magyarázat tartozik, barátságos, modern hangnemben – inkább életmód-tanácsadásra, mint jövendőmondásra. Könnyen olvasható, könnyen élvezhető, és tökéletes rövid szünetekre vagy csendes estékre.
 
-Válassz több lap közül – gyors egylapos útmutatás, háromlapos elmélkedések, vagy mélyebb elrendezések, amelyek a szerelmet, a karriert, a döntéseket vagy az érzelmi tisztaságot tárják fel. Minden húzás egy gyönyörűen illusztrált lapot tár fel, amely világos, barátságos értelmezést ad, hogy segítsen elgondolkodni azon, hol tartasz, és melyik irány tűnik helyesnek.
+Mentsd el kedvenc húzásaidat, idézd fel a múlt pillanatait, vagy böngéssz a kártyagyűjteményben, hogy új jelentéseket és vizuális elemeket fedezz fel a saját tempódban. Az alkalmazás gördülékeny folyása és nyugtató kialakítása miatt kevésbé eszköznek, és inkább egy rituálénak érződik, amelyhez később vissza akarsz térni.
 
-Mentsd el a leolvasásaidat későbbi áttekintésre, vagy fedezd fel a beépített Kártyatárat, ahol minden kártya kibővített jelentéssel, szimbolikával és függőleges/fordított értelmezésekkel rendelkezik. Akár kíváncsi vagy, akár tanulsz, akár csak egy tudatos szünetre van szükséged a napodban, a könyvtár idővel a személyes betekintések archívumává növekszik.
+Akár játékként, hangulatjavítóként vagy napi önmagaddal való találkozásként tekintesz rá, a Mystic Draw könnyedén beilleszthető a rutinodba.
 
-Az utazásod egy gyengéd beillesztéssel kezdődik, amelynek célja, hogy megfogalmazza a szándékodat, és segítsen kiválasztani a hangulatodnak megfelelő olvasási stílust. Egy meleg, napi húzásra emlékeztető ösztönzi az önreflexió apró pillanatait, amikor csak szükséged van rájuk.
-
-Keress útmutatást. Fejleszd a tudatosságodat. Tartsd a belső világodat fókuszban.
-Hagyd, hogy az Arcane Keeper megvilágítsa az utadat.
+Húzz egy kártyát. Élvezd a pillanatot.

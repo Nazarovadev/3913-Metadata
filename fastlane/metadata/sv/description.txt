@@ -1,12 +1,9 @@
-Arcane Keeper
-Din dagliga stund av klarhet, vägledning och reflektion.
+Mystic Draw är en lekfull, visuellt rik app gjord för stunder när du vill ha inspiration, nyfikenhet eller ett nytt perspektiv – utan att ta saker på för stort allvar. Tänk på det som en daglig gnista för reflektion, underhållning och självupptäckt, insvept i en vacker kortdragningsupplevelse.
 
-Kliv in i Arcane Keeper, en lugn och intuitiv tarotinspirerad följeslagare utformad för att hjälpa dig att stämma av med dig själv, förstå din dag och utforska innebörden bakom korten du drar.
+Välj ett snabbt drag för skojs skull, utforska tematiska uppslag för kärlek, arbete eller beslut, eller vänd ett enda kort bara för att se vad ögonblicket har att erbjuda. Varje dragning kommer med en engagerande förklaring skriven i en vänlig, modern ton – mer som livsstilsvägledning än spådom. Den är lätt att läsa, lätt att njuta av och perfekt för korta pauser eller lugna kvällar.
 
-Välj mellan flera uppslag – snabb vägledning med ett kort, reflektioner med tre kort eller djupare layouter som utforskar kärlek, karriär, beslut eller emotionell klarhet. Varje dragning avslöjar ett vackert illustrerat kort tillsammans med en tydlig och vänlig tolkning som hjälper dig att reflektera över var du står och vilken riktning som känns rätt.
+Spara dina favoritdragningar, återbesök tidigare ögonblick eller bläddra i kortbiblioteket för att upptäcka nya betydelser och bilder i din egen takt. Appens smidiga flöde och lugna design gör att den känns mindre som ett verktyg och mer som en ritual du vill återvända till.
 
-Spara dina läsningar för att återvända senare eller utforska det inbyggda kortbiblioteket, där varje kort kommer med utökade betydelser, symbolik och upprätta/omvända tolkningar. Oavsett om du är nyfiken, lär dig eller bara behöver en medveten paus i din dag, växer biblioteket till ett personligt arkiv av insikter över tid.
+Oavsett om du behandlar det som ett spel, en humörhöjare eller en daglig kontroll med dig själv, passar Mystic Draw enkelt in i din rutin.
 
-Din resa börjar med en mild onboarding utformad för att sätta din avsikt och hjälpa dig att välja den lässtil som passar ditt humör. En varm daglig påminnelse om att dra kort uppmuntrar till små stunder av självreflektion när du behöver dem.
-
-Hitta vägledning. Bygg medvetenhet. Håll din inre värld i fokus. Låt Arcane Keeper lysa upp din väg.
+Dra ett kort. Njut av ögonblicket.
