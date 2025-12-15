@@ -10,8 +10,8 @@ workflows:
         # тут мають лежати APPSTORE_ISSUER_ID, APPSTORE_KEY_ID, APPSTORE_P8, APPLE_EMAIL
         - appstore-connect
       vars:
-        IOS_BUNDLE_ID: com.kudryavtsevaproj.app
-        APP_NAME: Arcane Keeper
+        IOS_BUNDLE_ID: com.nazarovaproj.app
+        APP_NAME: Mystic Draw
 
     scripts:
       - name: Print working dir & contents
